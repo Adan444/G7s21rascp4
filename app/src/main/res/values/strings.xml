@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G7s21rascp4</string>
+    <string name="tesoem">Tecnologico De Estudios Superiores Del Oriente Del Estado De Mexico</string>
+    <string name="isc">Ingenieria En Sistemas Computacionales</string>
+    <string name="grupo">7S21</string>
+    <string name="tingrese">Ingrese Contraseña:</string>
+    <string name="tpass">contraseña</string>
+    <string name="btnvalida">VALIDAR</string>
+    <string name="txtbienvenida">Bienvenido a la App del:</string>
+</resources>
